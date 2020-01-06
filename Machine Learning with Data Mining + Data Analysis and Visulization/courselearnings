@@ -1,4 +1,4 @@
-Theory
+----------Theory----------
 
 Linear Regression
 Logistic Regression
@@ -20,13 +20,15 @@ PCA
 LDA,QDA
 SVM
 Decision Tree
+K-means clustering
 
-Hands on
+----------Hands-on experience----------
 
 Linear Regression
 Logistic Regression
-ANN with tensorflow
+ANN tensorflow
 ANN keras
+CNN tensorflow
 CNN keras
 Keras - Decision Tree, LDA , SVM
 
