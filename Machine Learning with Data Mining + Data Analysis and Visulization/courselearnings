@@ -1,0 +1,32 @@
+Theory
+
+Linear Regression
+Logistic Regression
+ANN
+Different types of activation ( Relu,tanh )
+Regularization
+	-Early Stopping
+	-Parameter norm penalties
+	-Node dropout
+	-batch normalization
+Optimization
+	-SGD ( Stochastic Gradiest Descent )
+	-SGD with momentum
+	-AdaGrad
+	-RMSProp
+	-Adam
+CNN
+PCA
+LDA,QDA
+SVM
+Decision Tree
+
+Hands on
+
+Linear Regression
+Logistic Regression
+ANN with tensorflow
+ANN keras
+CNN keras
+Keras - Decision Tree, LDA , SVM
+
